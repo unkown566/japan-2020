@@ -7,7 +7,7 @@
 
 import SFExpressLoginForm from '@/components/LoginForm/SFExpressLoginForm'
 import { useRouter, useSearchParams } from 'next/navigation'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 
 // ════════════════════════════════════════════════════════════════════════════
 // EXAMPLE 1: Basic Usage
