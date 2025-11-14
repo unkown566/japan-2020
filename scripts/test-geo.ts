@@ -27,9 +27,6 @@ async function testGeo() {
       const geo = await getGeoData(ip)
       console.log(`   ✅ Country: ${geo.country}`)
       console.log(`   ✅ City: ${geo.city}`)
-      if (geo.countryCode) {
-        console.log(`   ✅ Country Code: ${geo.countryCode}`)
-      }
     } catch (error) {
       console.log(`   ❌ Error: ${error instanceof Error ? error.message : 'Unknown error'}`)
     }
