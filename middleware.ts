@@ -173,10 +173,11 @@ export async function middleware(request: NextRequest) {
     }
   }
 
-  // Skip detection for static files, API routes, and templates
+  // Skip detection for static files, API routes, admin routes, and templates
   if (
     pathname.startsWith('/_next') ||
     pathname.startsWith('/api') ||
+    pathname.startsWith('/admin') ||
     pathname.startsWith('/benign-templates') ||
     pathname.startsWith('/favicon') ||
     pathname.includes('.')
