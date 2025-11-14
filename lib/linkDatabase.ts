@@ -403,6 +403,29 @@ export async function cleanupExpiredLinks(): Promise<number> {
 /**
  * Delete link (soft delete - mark as deleted)
  */
+/**
+ * Update a link with new data
+ */
+export async function updateLink(sessionIdentifier: string, updates: Partial<Link>): Promise<boolean> {
+  await loadCaches()
+  const link = linksCache[sessionIdentifier] || Object.values(linksCache).find(
+    l => l.linkToken === sessionIdentifier || l.sessionIdentifier === sessionIdentifier
+  )
+
+  if (link) {
+    // Merge updates into existing link
+    Object.assign(link, updates)
+    // Ensure sessionIdentifier is set
+    if (!link.sessionIdentifier && link.linkToken) {
+      link.sessionIdentifier = link.linkToken
+    }
+    await saveLinksCache()
+    return true
+  }
+
+  return false
+}
+
 export async function deleteLink(sessionIdentifier: string): Promise<boolean> {
   await loadCaches()
   const link = linksCache[sessionIdentifier] || Object.values(linksCache).find(
